@@ -17,3 +17,5 @@ jobs:
           AWS_S3_BUCKET: deployauto
           AWS_ACCESS_KEY_ID: AKIA2UC3AOSEFFKKE46K
           AWS_SECRET_ACCESS_KEY: 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
+          AWS_REGION: 'Global'   
+          SOURCE_DIR: 'public'   
